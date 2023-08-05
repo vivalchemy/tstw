@@ -1,0 +1,14 @@
+{
+  "name": "tstw",
+  "version": "1.0.0",
+  "description": "Websites made using html, tailwind and typescript(or javascript)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
